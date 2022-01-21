@@ -1,3 +1,5 @@
 from branch1->origin1
 branch1 updated 
-new line added
+changes made to branch1 and pushing it to master1
+again change in branch 1
+
