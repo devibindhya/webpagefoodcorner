@@ -1,2 +1,3 @@
 from branch1->origin1
 branch1 updated 
+new line added
