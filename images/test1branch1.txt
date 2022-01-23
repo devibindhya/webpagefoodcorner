@@ -1,3 +1,6 @@
 from branch1->origin1
 branch1 updated 
 new pull in dev branch
+new pull in dev branch
+new pull in dev branch
+trying to revert changes
